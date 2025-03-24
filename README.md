@@ -1,6 +1,7 @@
 # PHIGuardHealthInsights: Secure Analytics for Cancer & HIV Care
 
-![Interactive Scatter Plot](outputs/hospital_privacy_scatter.html) *(Open in browser for interactivity)*
+<img width="958" alt="Screenshot 2025-03-24 102401" src="https://github.com/user-attachments/assets/921a7365-f374-4335-8a04-02f348a36133" />
+
 
 Welcome to **PHIGuardHealthInsights**—a healthcare data science project born from a collab between [Your Name] and Grok 3 (xAI). We’ve built a fortress for patient privacy while unlocking insights for cancer and HIV care. Think top hospitals like MD Anderson excelling in research and PHI protection, plus a dashboard spotting treatment gaps— all without leaking a name. Privacy matters: one breach exposes 10K patients, and 68% delay care (JAMA 2023). Dive in!
 
